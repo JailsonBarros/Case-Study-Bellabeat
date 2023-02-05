@@ -16,7 +16,7 @@ _O estudo de caso segue as seis etapas do processo de análise de dados:_
 ### 🧗‍♀️ [Agir](#agir)
 
 
-Cenário
+### Cenário
 
 Bellabeat é um fabricante de alta tecnologia de produtos focados na saúde para mulheres. Ela é uma pequena empresa de sucesso, mas tem potencial para se tornar uma das maiores empresas no mercado global de dispositivos inteligentes. Nossa equipe foi solicitada para analisar dados de dispositivos inteligentes para obter informações sobre como os consumidores estão usando seus dispositivos inteligentes. Os insights que iremos descobrir ajudarão a orientar a estratégia de marketing da empresa.
 
@@ -33,7 +33,7 @@ Partes interessadas:
 
 # Preparar 
 
-Fonte de dados: FitBit Fitness Tracker Data: https://www.kaggle.com/arrashnic/fitbit
+Fonte de dados: FitBit Fitness Tracker Data: https://www.kaggle.com/arashnic/fitbit
 
 O dataset contém 18 arquivos CSV. Cada arquivo representa diferentes dados quantitativos rastreados pelo Fitbit.
 
